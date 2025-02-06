@@ -68,6 +68,7 @@ The simplest way that ensures all the files are as close to a fresh installation
 
 ## Authors
 
+* **Iulia-Teodora Bacanu** - *Initial work* - [Iuliabac](https://github.com/iuliabac)
 * **Daan de Waard** - *Initial work* - [dwaard](https://github.com/dwaard)
 
 See also the list of [contributors](https://github.com/HZ-HBO-ICT/laravel-skeleton-app/graphs/contributors) who
