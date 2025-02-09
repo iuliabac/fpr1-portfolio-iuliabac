@@ -18,22 +18,22 @@ Route::get('/faq', function () {
     return view('faq');
 });
 
-Route::get('/blog.blog', function () {
-    return view('/blog/blog');
+Route::get('/blog', function () {
+    return view('/blog');
 });
 
-Route::get('/blog.feedback', function () {
-    return view('feedback');
+Route::get('/blog/feedback', function () {
+    return view('blog.feedback');
 });
 
 Route::get('/blog/programming', function () {
-    return view('programming');
+    return view('blog.programming');
 });
 
 Route::get('/blog/study', function () {
-    return view('study');
+    return view('blog.study');
 });
 
 Route::get('/blog/swot', function () {
-    return view('swot');
+    return view('blog.swot');
 });
