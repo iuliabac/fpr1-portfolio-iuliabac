@@ -18,11 +18,11 @@ Route::get('/faq', function () {
     return view('faq');
 });
 
-Route::get('/blog', function () {
-    return view('blog');
+Route::get('/blog.blog', function () {
+    return view('/blog/blog');
 });
 
-Route::get('/blog/feedback', function () {
+Route::get('/blog.feedback', function () {
     return view('feedback');
 });
 
