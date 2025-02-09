@@ -73,11 +73,11 @@
     <nav>
         <div class="container">
             <ul class="myUL">
-                <li><a href="index.html">Index</a></li>
-                <li><a href="profile.html">Profile</a></li>
-                <li><a href="dashboard.html">Dashboard</a></li>
-                <li><a href="faq.html">FAQ</a></li>
-                <li><a class="active" href="#blog">Blog</a></li>
+                <li><a class="active" href="{{ route('home') }}">Index</a></li>
+                <li><a href="/profile">Profile</a></li>
+                <li><a href="/dashboard">Dashboard</a></li>
+                <li><a href="/faq">FAQ</a></li>
+                <li><a href="/blog">Blog</a></li>
             </ul>
         </div>
     </nav>
