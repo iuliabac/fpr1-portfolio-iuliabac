@@ -105,9 +105,9 @@
 <nav>
     <div class="container">
         <ul class="myUL">
-            <li><a class="active" href="{{ route('home') }}">Index</a></li>
+            <li><a href="{{ route('home') }}">Index</a></li>
             <li><a href="/profile">Profile</a></li>
-            <li><a href="/dashboard">Dashboard</a></li>
+            <li><a class="active" href="/dashboard">Dashboard</a></li>
             <li><a href="/faq">FAQ</a></li>
             <li><a href="/blog">Blog</a></li>
         </ul>
