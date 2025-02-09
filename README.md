@@ -1,6 +1,6 @@
 ![Logo of the project](https://avatars3.githubusercontent.com/u/40756580?s=200&v=4)
 
-# Project-name
+# Iulia-Teodora Băcanu's Portfolio for FPR1
 
 Laravel Skeleton App. Base project for all HZ-HBO-ICT Laravel projects.
 
