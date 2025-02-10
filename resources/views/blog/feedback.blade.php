@@ -57,7 +57,6 @@
             li a {
                 display: block;
                 color: white;
-                text-align: center;
                 padding: 14px 16px;
                 text-decoration: none;
             }
@@ -84,7 +83,8 @@
     <img align="left"
          src="resources\bouncy.gif">
     <img align="Right"
-         src="resources\bouncy.gif">
+         src="
+                text-align: center;resources\bouncy.gif">
     <h1 style="color: rgb(66, 28, 66);">Feedback</h1>
     <p>My colleges really liked the nostalgic aesthetic that I have going on with the site (e.g: Old-school GIFs and the amateurish coding). However all of my files were not organised as it was intended. all of the were in one folder and the files were all hosted on github instead of the projects folder. and all of my pictures were from the internete and the link redirected to the website, that is a bad thing because the web pictures can get deleted and won't be able to see it. so instead I organised my folders, downloaded my Pictures and have everything well organised and well done!  </p>
     <a href="https://hz.nl/"><img
