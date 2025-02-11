@@ -113,11 +113,11 @@
         </ul>
     </div>
 </nav>
-<img align="left" src="resources\penpaper.gif">
-<img align="Right" src="resources\penpaper.gif">
+<img align="left" src="{{  asset('assets\penpaper.gif')  }}" alt="">
+<img align="Right" src="{{  asset('assets\penpaper.gif')  }}" alt="">
 <h1 style="color: rgb(91, 97, 49);">MY Dashboard</h1>
 <p>A summary of my projects and exams this year</p>
-<img align="Right" src="resources\stress.gif">
+<img align="Right" src="{{  asset('assets\stress.gif')  }}" alt="">
 <h2>Exams</h2>
 <title>Exam</title>
 <table>
@@ -164,8 +164,8 @@
         <td>N/A</td>
     </tr>
 </table>
-<img align="Right" src="resources\arturito-clear.gif">
-<img align="Right" src="resources\super_sidekicks2_player01.gif">
+<img align="Right" src="{{  asset('assets\arturito-clear.gif')  }}" alt="">
+<img align="Right" src="{{  asset('assets\super_sidekicks2_player01.gif')  }}" alt="">
 <h2>Assignments</h2>
 <table>
     <tr>
@@ -310,7 +310,7 @@
 <h4>How can I obtain credits?</h4>
 <table>
     <tr>
-        <th>EC optainabiliaty</th>
+        <th>EC obtainabiliaty</th>
     </tr>
     <tr>
         <td>Exams</td>
@@ -367,6 +367,6 @@
 </table>
 <p>all of these will be informed by a study career coach or dean.</p>
 <a href="https://hz.nl/"><img src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg" style="width:200px;
-                       height:auto;"></a>
+                       height:auto;" alt=""></a>
 </body>
 </html>

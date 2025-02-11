@@ -87,9 +87,9 @@
         </div>
     </nav>
     <img align="left"
-         src="resources\profile.gif">
+         src="{{  asset('assets\profile.gif')  }}" alt="">
     <img align="Right"
-         src="resources\profile.gif">
+         src="{{  asset('assets\profile.gif')  }}" alt="">
     <h1 style="color: rgb(61, 20, 20);">Bacanu Iulia's Profile</h1>
     <h2>Who Am I?</h2>
     <p>I am from Romania and was born in Bucharest, the capital city, on 10th of March. </p>
@@ -97,16 +97,16 @@
     <p>My favourite subject during school was IT and had it for every year (Y1-Y12). I would always finnish my assignments ahead of the others and would play web games and even help my other colleges that were stuck!</p>
     <p>I am a very organized individual when it comes to data. Most of my projects involve using Excel or Sheets. These projects include collections of various interests that I have, such as music and videos. Each one is categorized by country of origin, creator, and year, with the title added next to it. </p>
     <img align="left"
-         src="resources\anigraph.gif">
+         src="{{  asset('assets\anigraph.gif')  }}" alt="">
     <img align="Right"
-         src="resources\anigraph.gif">
+         src="{{  asset('assets\anigraph.gif')  }}" alt="">
     <h2>My Goal</h2>
     <p>I came here for one goal, and my goal in the future is to become and suceed as a data manager. My parents and my friends have seen me throught my live as one and everybody thinks that I cand partake this so called "challenge", and I am sure that I can accomplish it. </p>
 
     <img align="left"
-         src="resources\cd.gif">
+         src="{{  asset('assets\cd.gif')  }}" alt="">
     <img align="Right"
-         src="resources\cd.gif">
+         src="{{  asset('assets\cd.gif')  }}" alt="">
     <h2>My interests</h2>
     <p>some of my other interests, besides computing include geography, (I went to competitions back in middle school) anything revolving collecting (CDs, movies, trinkets, cards, etc.) and travelling (every saturday, I hop on a train and see where it will take me). </p>
     <p>My family would always tell me that I am a walking "Wikipedia", telling fun facts that interest me as well as their interests.</p>
@@ -116,7 +116,7 @@
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
-         height:auto;"></a>
+         height:auto;" alt=""></a>
     </body>
 </main>
 </html>

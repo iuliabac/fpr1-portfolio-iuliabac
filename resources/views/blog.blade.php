@@ -82,9 +82,9 @@
         </div>
     </nav>
     <img align="left"
-         src="resources\bouncy.gif">
+         src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <img align="Right"
-         src="resources\bouncy.gif">
+         src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <h1 style="color: rgb(66, 28, 66);">MY BLOG</h1>
     <h2><a href="blog/study">Study Choice</a></h2>
     <h2><a href="blog/swot">Personal SWOT analysis</a></h2>
@@ -94,7 +94,7 @@
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
-                   height:auto;"></a>
+                   height:auto;" alt=""></a>
 
     </body>
 </main>

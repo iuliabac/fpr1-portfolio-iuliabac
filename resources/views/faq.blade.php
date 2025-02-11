@@ -79,9 +79,9 @@
         </div>
     </nav>
     <img align="left"
-         src="resources\Tgfaq.gif">
+         src="{{  asset('assets\Tgfaq.gif')  }}" alt="">
     <img align="Right"
-         src="resources\Tgfaq.gif">
+         src="{{  asset('assets\Tgfaq.gif')  }}" alt="">
     <h1 style="color: rgb(60, 114, 54);">FAQ</h1>
     <h2>For anyone who is curious</h2>
     <p>Q: How can you print a document from your laptop at HZ?</p>
@@ -92,13 +92,13 @@
     <p>Q: How can I buy something (like when I sign up for the IT introduction event) on the HZ web shop?</p>
     <p>A: Search at the HZ Web Shop</p>
     <p>Q: How can you book a project space?</p>
-    <p>A: With the selfservice portal, click on the new reservation button and you can choose where you want and when to be in the room. </p>
+    <p>A: With the self service portal, click on the new reservation button and you can choose where you want and when to be in the room. </p>
     <p>Q: What are the instructions if you want to park your car at the HZ parking lot?</p>
     <p>A: Since I don't own or drive a car, maybe you can use your HZ student card and reserve your time there </p>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
-                   height:auto;"></a>
+                   height:auto;" alt=""></a>
     </body>
 </main>
 </html>

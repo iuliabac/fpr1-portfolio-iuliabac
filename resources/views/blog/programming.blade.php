@@ -1,4 +1,4 @@
-<html></html>
+<html>
 <main>
     <head>
         <title> Iulia's Choice</title>
@@ -82,15 +82,15 @@
         </div>
     </nav>
     <img align="left"
-         src="resources\bouncy.gif">
+         src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <img align="Right"
-         src="resources\bouncy.gif">
+         src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <h1 style="color: rgb(66, 28, 66);">Programming experience</h1>
     <p>The fist time I ever learned programing was in 7th grade, on HTML. All of our stuff were coded using, NOTEPAD? yes, thats right! all of the coding in middle school were on notepad. Then in High School, I used python for Computer Science classes, however we didn't use that much... Right now, I am rediscovering this thing called "Programming" and all of this is made using "Visual Studio Code", and let me tell you. It's much more easier than using notepad that's for sure! </p>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
-                   height:auto;"></a>
+                   height:auto;" alt=""></a>
 
     </body>
 </main>

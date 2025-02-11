@@ -82,18 +82,18 @@
         </div>
     </nav>
     <img align="left"
-         src="resources\bouncy.gif">
+         src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <img align="Right"
-         src="resources\bouncy.gif">
+         src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <h1 style="color: rgb(66, 28, 66);">SWOT</h1>
-    <p>Streangths: Understanding, fast learner, good listener, can solve most problems without any help</p>
-    <p>Weeknesses: Writing</p>
-    <p>Opportuniteis: Organization, Ideas</p>
-    <p>Threats: discrimiation because of a learning disability</p>
+    <p>Strengths: Understanding, fast learner, good listener, can solve most problems without any help</p>
+    <p>Weaknesses: Writing</p>
+    <p>Opportunities: Organization, Ideas</p>
+    <p>Threats: discrimination because of a learning disability</p>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
-                   height:auto;"></a>
+                   height:auto;" alt=""></a>
 
     </body>
 </main>
