@@ -86,7 +86,7 @@
     <img align="Right"
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <h1 style="color: rgb(66, 28, 66);">Study Choice</h1>
-    <p>If you have read my profile page, you know that I want to do data management in the future. Because My parents thought of me becoming one and I got interested on the subject. A data manager is someone who collects and rearanges data in a specific order, so that it world be easier for others.</p>
+    <p>If you have read my profile page, you know that I want to do data management in the future. Because My parents thought of me becoming one and I got interested on the subject. A data manager is someone who collects and rearranges data in a specific order, so that it world be easier for others.</p>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
