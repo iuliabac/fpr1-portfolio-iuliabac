@@ -86,10 +86,16 @@
     <img align="Right"
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <h1 style="color: rgb(66, 28, 66);">MY BLOG</h1>
+
+    <div class="navbar-end">
+        <a href="blog/create" class="button is-primary">Create a new Blog Post</a>
+    </div>
+
     <h2><a href="blog/study">Study Choice</a></h2>
     <h2><a href="blog/swot">Personal SWOT analysis</a></h2>
     <h2><a href="blog/programming">Programming experience</a></h2>
     <h2><a href="blog/feedback">First feedback</a></h2>
+
     <h2><a href="https://www.sciencedirect.com/science/article/abs/pii/S0308596123001088">(Article) ICT & employment in developing countries</a></h2>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"

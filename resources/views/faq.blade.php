@@ -84,6 +84,11 @@
          src="{{  asset('assets\Tgfaq.gif')  }}" alt="">
     <h1 style="color: rgb(60, 114, 54);">FAQ</h1>
     <h2>For anyone who is curious</h2>
+
+    <div class="navbar-end">
+        <a href="faq/create" class="button is-primary">Ask a Question</a>
+    </div>
+
     <p>Q: How can you print a document from your laptop at HZ?</p>
     <p>A: Select the following printer for your job: HZ Printer, use your HZ Pass and choose your format
     </p>

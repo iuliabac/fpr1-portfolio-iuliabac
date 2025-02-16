@@ -37,3 +37,11 @@ Route::get('/blog/study', function () {
 Route::get('/blog/swot', function () {
     return view('blog.swot');
 });
+
+Route::get('blog/create', function () {
+    return view('blog.create');
+});
+
+Route::get('faq/create', function () {
+    return view('faq.create');
+});
