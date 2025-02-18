@@ -22,7 +22,6 @@ class FaqController extends Controller
     public function store(Request $request)
     {
         $validated = $request->validate([
-            'title' => 'required',
             'question' => 'required',
             'answer' => 'required'
         ]);
@@ -49,7 +48,6 @@ class FaqController extends Controller
     public function update(Request $request, Faq $faq)
     {
         $validated = $request->validate([
-            'title' => 'required',
             'question' => 'required',
             'answer' => 'required'
         ]);
