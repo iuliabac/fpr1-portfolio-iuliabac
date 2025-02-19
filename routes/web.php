@@ -19,8 +19,8 @@ Route::get('/faq/index', function () {
     return view('/faq.index');
 });
 
-Route::get('/posts', function () {
-    return view('/posts');
+Route::get('/posts/index', function () {
+    return view('/posts.index');
 });
 
 Route::get('/posts/feedback', function () {

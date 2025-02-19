@@ -77,7 +77,7 @@
                 <li><a href="/profile">Profile</a></li>
                 <li><a href="/dashboard">Dashboard</a></li>
                 <li><a href="/faq/index">FAQ</a></li>
-                <li><a class="active" href="/posts">Blog</a></li>
+                <li><a class="active" href="/posts/index">Blog</a></li>
             </ul>
         </div>
     </nav>
@@ -88,13 +88,13 @@
     <h1 style="color: rgb(66, 28, 66);">MY BLOG</h1>
 
     <div class="navbar-end">
-        <a href="posts/create" class="button is-primary">Create a new Blog Post</a>
+        <a href="/posts/create" class="button is-primary">Create a new Blog Post</a>
     </div>
 
-    <h2><a href="posts/study">Study Choice</a></h2>
-    <h2><a href="posts/swot">Personal SWOT analysis</a></h2>
-    <h2><a href="posts/programming">Programming experience</a></h2>
-    <h2><a href="posts/feedback">First feedback</a></h2>
+    <h2><a href="/posts/study">Study Choice</a></h2>
+    <h2><a href="/posts/swot">Personal SWOT analysis</a></h2>
+    <h2><a href="/posts/programming">Programming experience</a></h2>
+    <h2><a href="/posts/feedback">First feedback</a></h2>
 
     <h2><a href="https://www.sciencedirect.com/science/article/abs/pii/S0308596123001088">(Article) ICT & employment in developing countries</a></h2>
     <a href="https://hz.nl/"><img

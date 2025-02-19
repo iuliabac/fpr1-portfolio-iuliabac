@@ -76,7 +76,7 @@
                     <li><a href="/profile">Profile</a></li>
                     <li><a href="/dashboard">Dashboard</a></li>
                     <li><a href="/faq/index">FAQ</a></li>
-                    <li><a href="/posts">Blog</a></li>
+                    <li><a href="/posts/index">Blog</a></li>
                 </ul>
             </div>
         </nav>
