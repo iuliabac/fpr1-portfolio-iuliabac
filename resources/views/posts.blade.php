@@ -1,7 +1,7 @@
 <html>
 <main>
     <head>
-        <title> Iulia's Choice</title>
+        <title> Iulia's blog</title>
         <style>
             h1 {
                 text-align: center;
@@ -57,6 +57,7 @@
             li a {
                 display: block;
                 color: white;
+                text-align: center;
                 padding: 14px 16px;
                 text-decoration: none;
             }
@@ -76,7 +77,7 @@
                 <li><a href="/profile">Profile</a></li>
                 <li><a href="/dashboard">Dashboard</a></li>
                 <li><a href="/faq">FAQ</a></li>
-                <li><a class="active" href="/blog">Blog</a></li>
+                <li><a class="active" href="/posts">Blog</a></li>
             </ul>
         </div>
     </nav>
@@ -84,12 +85,23 @@
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <img align="Right"
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
-    <h1 style="color: rgb(66, 28, 66);">Feedback</h1>
-    <p>My colleges really liked the nostalgic aesthetic that I have going on with the site (e.g: Old-school GIFs and the amateurish coding). However all of my files were not organised as it was intended. all of the were in one folder and the files were all hosted on github instead of the projects folder. and all of my pictures were from the internete and the link redirected to the website, that is a bad thing because the web pictures can get deleted and won't be able to see it. so instead I organised my folders, downloaded my Pictures and have everything well organised and well done!  </p>
+    <h1 style="color: rgb(66, 28, 66);">MY BLOG</h1>
+
+    <div class="navbar-end">
+        <a href="posts/create" class="button is-primary">Create a new Blog Post</a>
+    </div>
+
+    <h2><a href="posts/study">Study Choice</a></h2>
+    <h2><a href="posts/swot">Personal SWOT analysis</a></h2>
+    <h2><a href="posts/programming">Programming experience</a></h2>
+    <h2><a href="posts/feedback">First feedback</a></h2>
+
+    <h2><a href="https://www.sciencedirect.com/science/article/abs/pii/S0308596123001088">(Article) ICT & employment in developing countries</a></h2>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
                    height:auto;" alt=""></a>
+
     </body>
 </main>
 </html>

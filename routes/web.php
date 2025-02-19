@@ -18,28 +18,28 @@ Route::get('/faq', function () {
     return view('faq');
 });
 
-Route::get('/blog', function () {
-    return view('/blog');
+Route::get('/posts', function () {
+    return view('/posts');
 });
 
-Route::get('/blog/feedback', function () {
-    return view('blog.feedback');
+Route::get('/posts/feedback', function () {
+    return view('posts.feedback');
 });
 
-Route::get('/blog/programming', function () {
-    return view('blog.programming');
+Route::get('/posts/programming', function () {
+    return view('posts.programming');
 });
 
-Route::get('/blog/study', function () {
-    return view('blog.study');
+Route::get('/posts/study', function () {
+    return view('posts.study');
 });
 
-Route::get('/blog/swot', function () {
-    return view('blog.swot');
+Route::get('/posts/swot', function () {
+    return view('posts.swot');
 });
 
-Route::get('blog/create', function () {
-    return view('blog.create');
+Route::get('posts/create', function () {
+    return view('posts.create');
 });
 
 Route::get('faq/create', function () {

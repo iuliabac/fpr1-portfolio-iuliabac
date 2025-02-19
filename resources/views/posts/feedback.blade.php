@@ -57,7 +57,6 @@
             li a {
                 display: block;
                 color: white;
-                text-align: center;
                 padding: 14px 16px;
                 text-decoration: none;
             }
@@ -77,7 +76,7 @@
                 <li><a href="/profile">Profile</a></li>
                 <li><a href="/dashboard">Dashboard</a></li>
                 <li><a href="/faq">FAQ</a></li>
-                <li><a class="active" href="/blog">Blog</a></li>
+                <li><a class="active" href="/post">Blog</a></li>
             </ul>
         </div>
     </nav>
@@ -85,16 +84,12 @@
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <img align="Right"
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
-    <h1 style="color: rgb(66, 28, 66);">SWOT</h1>
-    <p>Strengths: Understanding, fast learner, good listener, can solve most problems without any help</p>
-    <p>Weaknesses: Writing</p>
-    <p>Opportunities: Organization, Ideas</p>
-    <p>Threats: discrimination because of a learning disability</p>
+    <h1 style="color: rgb(66, 28, 66);">Feedback</h1>
+    <p>My colleges really liked the nostalgic aesthetic that I have going on with the site (e.g: Old-school GIFs and the amateurish coding). However all of my files were not organised as it was intended. all of the were in one folder and the files were all hosted on github instead of the projects folder. and all of my pictures were from the internete and the link redirected to the website, that is a bad thing because the web pictures can get deleted and won't be able to see it. so instead I organised my folders, downloaded my Pictures and have everything well organised and well done!  </p>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
                    height:auto;" alt=""></a>
-
     </body>
 </main>
 </html>

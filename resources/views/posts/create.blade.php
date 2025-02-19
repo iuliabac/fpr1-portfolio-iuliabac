@@ -1,7 +1,7 @@
 <html>
 <main>
     <head>
-        <title> Iulia's Choice</title>
+        <title> Create a new Blog!</title>
         <style>
             h1 {
                 text-align: center;
@@ -77,16 +77,14 @@
                 <li><a href="/profile">Profile</a></li>
                 <li><a href="/dashboard">Dashboard</a></li>
                 <li><a href="/faq">FAQ</a></li>
-                <li><a class="active" href="/blog">Blog</a></li>
+                <li><a class="active" href="/post">Blog</a></li>
             </ul>
         </div>
     </nav>
-    <img align="left"
-         src="{{  asset('assets\bouncy.gif')  }}" alt="">
-    <img align="Right"
-         src="{{  asset('assets\bouncy.gif')  }}" alt="">
-    <h1 style="color: rgb(66, 28, 66);">Programming experience</h1>
-    <p>The fist time I ever learned programing was in 7th grade, on HTML. All of our stuff were coded using, NOTEPAD? yes, thats right! all of the coding in middle school were on notepad. Then in High School, I used python for Computer Science classes, however we didn't use that much... Right now, I am rediscovering this thing called "Programming" and all of this is made using "Visual Studio Code", and let me tell you. It's much more easier than using notepad that's for sure! </p>
+
+    <h1>Here you can create a new blog post here</h1>
+    <h2><a href="/blog">go back</a></h2>
+
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
@@ -94,4 +92,3 @@
 
     </body>
 </main>
-</html>

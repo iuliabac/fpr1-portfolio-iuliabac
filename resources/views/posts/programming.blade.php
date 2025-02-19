@@ -1,7 +1,7 @@
 <html>
 <main>
     <head>
-        <title> Iulia's blog</title>
+        <title> Iulia's Choice</title>
         <style>
             h1 {
                 text-align: center;
@@ -77,7 +77,7 @@
                 <li><a href="/profile">Profile</a></li>
                 <li><a href="/dashboard">Dashboard</a></li>
                 <li><a href="/faq">FAQ</a></li>
-                <li><a class="active" href="/blog">Blog</a></li>
+                <li><a class="active" href="/post">Blog</a></li>
             </ul>
         </div>
     </nav>
@@ -85,18 +85,8 @@
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
     <img align="Right"
          src="{{  asset('assets\bouncy.gif')  }}" alt="">
-    <h1 style="color: rgb(66, 28, 66);">MY BLOG</h1>
-
-    <div class="navbar-end">
-        <a href="blog/create" class="button is-primary">Create a new Blog Post</a>
-    </div>
-
-    <h2><a href="blog/study">Study Choice</a></h2>
-    <h2><a href="blog/swot">Personal SWOT analysis</a></h2>
-    <h2><a href="blog/programming">Programming experience</a></h2>
-    <h2><a href="blog/feedback">First feedback</a></h2>
-
-    <h2><a href="https://www.sciencedirect.com/science/article/abs/pii/S0308596123001088">(Article) ICT & employment in developing countries</a></h2>
+    <h1 style="color: rgb(66, 28, 66);">Programming experience</h1>
+    <p>The fist time I ever learned programing was in 7th grade, on HTML. All of our stuff were coded using, NOTEPAD? yes, thats right! all of the coding in middle school were on notepad. Then in High School, I used python for Computer Science classes, however we didn't use that much... Right now, I am rediscovering this thing called "Programming" and all of this is made using "Visual Studio Code", and let me tell you. It's much more easier than using notepad that's for sure! </p>
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
