@@ -83,7 +83,7 @@
     </nav>
 
     <h1>Here you can create a new blog post here</h1>
-    <h2><a href="/blog">go back</a></h2>
+    <h2><a href="/posts">go back</a></h2>
 
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
