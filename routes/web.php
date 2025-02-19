@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\FaqController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -14,8 +15,8 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 });
 
-Route::get('/faq', function () {
-    return view('faq');
+Route::get('/faq/index', function () {
+    return view('/faq.index');
 });
 
 Route::get('/posts', function () {

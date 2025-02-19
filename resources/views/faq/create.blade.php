@@ -73,14 +73,14 @@
                 <li><a href="{{ route('home') }}">Index</a></li>
                 <li><a href="/profile">Profile</a></li>
                 <li><a href="/dashboard">Dashboard</a></li>
-                <li><a class="active" href="/faq">FAQ</a></li>
+                <li><a class="active" href="/faq/index">FAQ</a></li>
                 <li><a href="/blog">Blog</a></li>
             </ul>
         </div>
     </nav>
 
     <h1>Have any question? Ask here!</h1>
-    <h2><a href="/faq">go back</a></h2>
+    <h2><a href="/faq/index">go back</a></h2>
 
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"

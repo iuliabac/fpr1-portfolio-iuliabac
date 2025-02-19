@@ -73,7 +73,7 @@
                 <li><a href="{{ route('home') }}">Index</a></li>
                 <li><a href="/profile">Profile</a></li>
                 <li><a href="/dashboard">Dashboard</a></li>
-                <li><a class="active" href="/faq">FAQ</a></li>
+                <li><a class="active" href="/faq/index">FAQ</a></li>
                 <li><a href="/posts">Blog</a></li>
             </ul>
         </div>
@@ -86,7 +86,7 @@
     <h2>For anyone who is curious</h2>
 
     <div class="navbar-end">
-        <a href="faq/create" class="button is-primary">Ask a Question</a>
+        <a href="/faq/create" class="button is-primary">Ask a Question</a>
     </div>
 
     <p>Q: How can you print a document from your laptop at HZ?</p>
