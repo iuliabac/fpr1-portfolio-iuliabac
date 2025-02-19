@@ -85,6 +85,26 @@
     <h1>Here you can create a new blog post here</h1>
     <h2><a href="/posts/index">go back</a></h2>
 
+
+    <div class="field">
+        <label for ="title" class="label">title</label>
+        <div class="control has-icons-right">
+            <input type="text" name="question" placeholder="Enter your title in here">
+        </div>
+    </div>
+
+    <div class="field">
+        <label for ="text" class="label">text</label>
+        <div class="control has-icons-right">
+            <input type="text" name="answer" placeholder="Enter your text in here">
+        </div>
+    </div>
+
+
+    <div class="control">
+        <button type="submit">Submit</button>
+    </div>
+
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;

@@ -82,10 +82,28 @@
     <h1>Have any question? Ask here!</h1>
     <h2><a href="/faq/index">go back</a></h2>
 
+    <div class="field">
+        <label for ="question" class="label">Question</label>
+        <div class="control has-icons-right">
+            <input type="text" name="question" placeholder="Enter your question in here">
+        </div>
+    </div>
+
+    <div class="field">
+        <label for ="answer" class="label">Answer</label>
+        <div class="control has-icons-right">
+            <input type="text" name="answer" placeholder="Enter your answer in here">
+        </div>
+    </div>
+
+
+       <div class="control">
+           <button type="submit">Submit</button>
+    </div>
+
     <a href="https://hz.nl/"><img
             src="https://iuliabac.github.io/hz-university-of-applied-sciences.svg"
             style="width:200px;
                    height:auto;" alt=""></a>
-
     </body>
 </main>
